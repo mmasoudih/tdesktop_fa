@@ -265,16 +265,16 @@ https://td.Rozito.ir/
 
 "lng_username_title" = "نام کاربری";
 "lng_username_about" = "You can choose a username on Telegram.\nIf you do, other people will be able to find\nyou by this username and contact you\nwithout knowing your phone number.\n\nYou can use a-z, 0-9 and underscores.\nMinimum length is 5 characters.";
-"lng_username_choose" = "Choose your username.";
-"lng_username_invalid" = "This username is invalid.";
-"lng_username_occupied" = "This username is already occupied.";
-"lng_username_too_short" = "This username is too short.";
-"lng_username_bad_symbols" = "This username has bad symbols.";
-"lng_username_available" = "This username is available.";
+"lng_username_choose" = ".نام کاربری خود را انتخاب کنید";
+"lng_username_invalid" = ".این نام کاربری نامعتبر است";
+"lng_username_occupied" = ".این نام کاربری قبلا گرفته شده است";
+"lng_username_too_short" = ".این نام کاربری خیلی کوتاه است";
+"lng_username_bad_symbols" = ".این نام کاربری دارای علامت های نامناسب است";
+"lng_username_available" = ".این نام کاربری در دسترس است";
 "lng_username_not_found" = "User @{user} not found.";
 "lng_username_link_willbe" = "Such link will open a chat with you:";
 "lng_username_link" = "This link opens a chat with you:";
-"lng_username_copied" = "Link copied to clipboard.";
+"lng_username_copied" = ".لینک در حافظه موقت کپی شد";
 
 "lng_settings_section_info" = "اطلاعات";
 "lng_settings_phone_number" = "شماره تماس:";
